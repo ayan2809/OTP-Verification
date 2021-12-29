@@ -1,2 +1,2 @@
 # otp-verification
-Otp verification using twilio  in flask.
+Otp verification using twilio API for verification using the Flask server
